@@ -13,6 +13,9 @@
                     "build"
                 ]
             },
+            "env": {
+                "DISCORD_TOKEN": "MTEzNzczODA5NzU2NDYwMjQzMA.Ge06Hr.aELHuQurPDtmRmshuXgdRs-__2qSw1Pn57Hh90"
+            },
             "args": []
         }
 
