@@ -6,3 +6,6 @@ Check out these references on how to build and deploy for a Raspberry Pi:
 - https://chat.openai.com/share/15230d49-ea11-4495-b76b-717e2cae4785
 
 - https://rust-lang.github.io/rustup/cross-compilation.html
+
+
+- https://cli.github.com/manual/gh_codespace_cp
