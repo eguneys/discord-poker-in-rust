@@ -9,3 +9,5 @@ Check out these references on how to build and deploy for a Raspberry Pi:
 
 
 - https://cli.github.com/manual/gh_codespace_cp
+
+- [Raspberry PI Boot Process](https://chat.openai.com/share/7f01da86-185a-4c0d-9abc-90fbb904df99)
